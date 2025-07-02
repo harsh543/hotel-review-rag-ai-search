@@ -18,6 +18,11 @@ With holidays approaching, especially events like July 4th weekend, finding the 
 - **Azure OpenAI Service**: LLM for intelligent query responses.
 - **Azure Foundry**: Deployment environment for the intelligent AI agent.
 
+## System Design
+
+![System Design](diagram-export-7-1-2025-11_49_52-PM.png)
+
+
 ## Setup
 
 ### 1. Clone the repository
