@@ -62,7 +62,7 @@ python your_query_script.py
 
 Watch our complete demo showing how to query hotels using vector search technology:
 
-[▶️ Watch Demo Video](./Demo69.mp4)
+[▶️ Watch Demo Video](https://youtu.be/qOR3eW8ik1c)
 
 **Sample Query:**
 
