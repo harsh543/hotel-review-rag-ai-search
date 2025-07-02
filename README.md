@@ -35,15 +35,14 @@ pip install -r requirements.txt
 
 ### 3. Configuration
 
-Update your Azure credentials and endpoints in `config.json`:
+Update your Azure credentials and endpoints in `.env file`:
 
-```json
-{
-  "AZURE_SEARCH_ENDPOINT": "<your-endpoint>",
-  "AZURE_SEARCH_KEY": "<your-search-key>",
-  "AZURE_OPENAI_ENDPOINT": "<your-openai-endpoint>",
-  "AZURE_OPENAI_KEY": "<your-openai-key>"
-}
+```
+OPENAI_API_KEY=
+
+SERVICE_NAME=hotels
+SEARCH_ADMIN_KEY=
+SEARCH_INDEX_NAME=hotel-reviews-index
 ```
 
 ### 4. Run the demo
